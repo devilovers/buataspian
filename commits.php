@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Birthday, Love.</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<center><h1>Story of Love</h1></center>
+
+<div class="commit">
+<h3>Awal mula kagum</h3>
+<p>alasan kenapa aku bisa kagum</p>
+<a class="button" href="commit.php?id=c1">View Story</a>
+</div>
+
+<div class="commit">
+<h3>Mulai suka</h3>
+<p>berawal dari kagum, lama lama jadi suka</p>
+<a class="button" href="commit.php?id=c2">View Story</a>
+</div>
+
+<div class="commit">
+<h3>Sejauh ini</h3>
+<p>ketika rasa suka, sayang, dan cinta jadi satu</p>
+<a class="button" href="commit.php?id=c3">View Story</a>
+</div>
+
+<div class="commit">
+<h3>You!</h3>
+<p>100 hal yang membuat aku menyukaimu</p>
+<a class="button" href="things.php">Open</a>
+</div>
+
+<div class="commit">
+<h3>Happy Birthday <3</h3>
+<p>terimakasih karna sudah bertahan selama ini</p>
+<a class="button" href="birthday.php">Open</a>
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Birthday, Love.</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+
+<center><h1>Happy Birthday, Muhammad Aspian.</h1></center>
+
+<p>
+pada hari ini, 18 tahun yang lalu. seseorang yang jadi alasan aku senyum tiap sekolah, lahir kedunia. membawa nafas pertama dan kisah yang perlahan ditulis oleh waktu. hari ini, orang itu sampai di titik ini, masih berjalan, masih bertumbuh.
+</p>
+
+<p>
+serta mulia, Aspianku. semoga panjang umur, sehat selalu, dimurahkan rezekinya, serta menjadi pribadi yang lebih baik lagi kedepannya. semoga segala impian km yang pernah km ceritakan dan yang belum km ceritakan segera terwujud ya.
+</p>
+
+<p>
+terimakasih karna Sudah mau bertahan selama 18 tahun ini, suka duka nya cuman km yang tau. tapi yang harus km tau, aku mendukung apapun yang menjadi impian dan keputusan km, karna untuk sekarang cuman itu yang bisa aku lakukan.
+</p>
+
+<p>aku kada berharap banyak, yang aku harapkan km bahagia dan tetap ada di dunia, disini, dihatiku. aku kada menuntut kejelasan hubungan kita jua, karna jar kawan km, km kada akan memulai hubungan serius dulu sebelum bekerja. aku hargai itu, karna itu keputusan km. tapi yang harus km tau, aku tetap disini kalo  km perlu atau sekedar nyari teman cerita.</p>
+
+<p>
+sebenarnya masih banyak hal yang mau aku sampaikan disini, tapi aku tau persis km orangnya males membaca hal yang kaya ginian, "mending ngoding" katanya HAHAHAHA.
+</p>
+
+<p>
+sekali lagi, selamat berulang tahun ganteng <3 i will always love and choose you.
+</p>
+
+<center>
+<svg class="cake" viewBox="0 0 400 300">
+
+<ellipse cx="200" cy="250" rx="160" ry="25" class="line"/>
+
+<rect x="90" y="170" width="220" height="60" rx="8" class="line"/>
+
+<path d="M90 170 
+q10 15 20 0 
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0" class="line"/>
+
+<rect x="120" y="120" width="160" height="50" rx="8" class="line"/>
+
+<path d="M120 120 
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0
+q10 15 20 0" class="line"/>
+
+<line x1="200" y1="70" x2="200" y2="120" class="line"/>
+
+<path d="M200 60
+q10 -15 20 0
+q-10 10 -20 0
+q-10 -10 0 0" class="line"/>
+
+</svg>
+</center>
+
+<center>
+<a class="button" href="index.php">Kembali</a>
+</center>
+
+</div>
+
+</div>
+
+</body>
+</html>
